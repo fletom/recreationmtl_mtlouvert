@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Folder id="Fusiontables">
+<name>Fusiontables folder</name>
+<Style id="BasicStyle">
+<BalloonStyle>
+<text>$[description]</text>
+</BalloonStyle>
+<IconStyle>
+<color>FFFFFFFF</color>
+<scale>1.1</scale>
+<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/><Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/red-blank_maps.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name><![CDATA[Piscine du Complexe sportif Claude-Robillard]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine du Complexe sportif Claude-Robillard</strong></font><br>
+(Indoor pool)<br>
+<b>1000 avenue Émile-Journault</b><br>
+<b>Ahuntsic-Cartierville</b><br>
+<br>
+<b>Phone:</b> 514 872-6900<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7957,87901866&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>1000 avenue Émile-Journault, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine du Complexe sportif Claude-Robillard</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>1000 avenue Émile-Journault</value>
+</Data>
+<Data name="Borough">
+<value>Ahuntsic-Cartierville</value>
+</Data>
+<Data name="Phone">
+<value>514 872-6900</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7957,87901866&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine Sophie-Barat]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine Sophie-Barat</strong></font><br>
+(Indoor pool)<br>
+<b>10851 avenue Saint-Charles</b><br>
+<b>Ahuntsic-Cartierville</b><br>
+<br>
+<b>Phone:</b> 514 872-1136<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7957,87889639&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>10851 avenue Saint-Charles, Montreal, Canada</address>
+
+
+<ExtendedData>
+<Data name="Pool">
+<value>Y Westmount</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>4585 rue Sherbrooke Ouest</value>
+</Data>
+<Data name="Borough">
+<value>Westmount</value>
+</Data>
+<Data name="Phone">
+<value>514 931-8046</value>
+</Data>
+<Data name="URL">
+<value>http://www.ymcaquebec.org/en/centre/activities/westmount-y-centre/9/</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+</Document>
+</kml>

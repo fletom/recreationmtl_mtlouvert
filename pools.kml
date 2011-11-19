@@ -1,0 +1,5625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Folder id="Fusiontables">
+<name>Fusiontables folder</name>
+<Style id="BasicStyle">
+<BalloonStyle>
+<text>$[description]</text>
+</BalloonStyle>
+<IconStyle>
+<color>FFFFFFFF</color>
+<scale>1.1</scale>
+<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/><Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/red-blank_maps.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name><![CDATA[Piscine du Complexe sportif Claude-Robillard]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine du Complexe sportif Claude-Robillard</strong></font><br>
+(Indoor pool)<br>
+<b>1000 avenue Émile-Journault</b><br>
+<b>Ahuntsic-Cartierville</b><br>
+<br>
+<b>Phone:</b> 514 872-6900<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7957,87901866&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>1000 avenue Émile-Journault, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine du Complexe sportif Claude-Robillard</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>1000 avenue Émile-Journault</value>
+</Data>
+<Data name="Borough">
+<value>Ahuntsic-Cartierville</value>
+</Data>
+<Data name="Phone">
+<value>514 872-6900</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7957,87901866&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine Sophie-Barat]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine Sophie-Barat</strong></font><br>
+(Indoor pool)<br>
+<b>10851 avenue Saint-Charles</b><br>
+<b>Ahuntsic-Cartierville</b><br>
+<br>
+<b>Phone:</b> 514 872-1136<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7957,87889639&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>10851 avenue Saint-Charles, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine Sophie-Barat</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>10851 avenue Saint-Charles</value>
+</Data>
+<Data name="Borough">
+<value>Ahuntsic-Cartierville</value>
+</Data>
+<Data name="Phone">
+<value>514 872-1136</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7957,87889639&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine Collège Bois-de-Boulogne]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine Collège Bois-de-Boulogne</strong></font><br>
+(Indoor pool)<br>
+<b>10555 avenue Bois-de-Boulogne</b><br>
+<b>Ahuntsic-Cartierville</b><br>
+<br>
+<b>Phone:</b> 514 332-3002<br>
+<b><a href="http://complexesportif.bdeb.qc.ca/" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>10555 avenue Bois-de-Boulogne, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine Collège Bois-de-Boulogne</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>10555 avenue Bois-de-Boulogne</value>
+</Data>
+<Data name="Borough">
+<value>Ahuntsic-Cartierville</value>
+</Data>
+<Data name="Phone">
+<value>514 332-3002</value>
+</Data>
+<Data name="URL">
+<value>http://complexesportif.bdeb.qc.ca/</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Y du Cartierville]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Y du Cartierville</strong></font><br>
+(Indoor pool)<br>
+<b>11885 Boul. Laurentien</b><br>
+<b>Ahuntsic-Cartierville</b><br>
+<br>
+<b>Phone:</b> 514 313-1047<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7957,87889639&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>11885 Boul. Laurentien, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Y du Cartierville</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>11885 Boul. Laurentien</value>
+</Data>
+<Data name="Borough">
+<value>Ahuntsic-Cartierville</value>
+</Data>
+<Data name="Phone">
+<value>514 313-1047</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7957,87889639&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Gabriel-Lalemant]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Gabriel-Lalemant</strong></font><br>
+(Outdoor pool)<br>
+<b>2350 rue Sauvé Est</b><br>
+<b>Ahuntsic-Cartierville</b><br>
+<br>
+<b>Phone:</b> 514 872-1137<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7957,87889639&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>2350 rue Sauvé Est, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Gabriel-Lalemant</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>2350 rue Sauvé Est</value>
+</Data>
+<Data name="Borough">
+<value>Ahuntsic-Cartierville</value>
+</Data>
+<Data name="Phone">
+<value>514 872-1137</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7957,87889639&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Centre aquatique Marcelin-Wilson]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Centre aquatique Marcelin-Wilson</strong></font><br>
+(Outdoor pool)<br>
+<b>1655 rue Dudemaine</b><br>
+<b>Ahuntsic-Cartierville</b><br>
+<br>
+<b>Phone:</b> 514 872-1138<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7957,87889639&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>1655 rue Dudemaine, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Centre aquatique Marcelin-Wilson</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>1655 rue Dudemaine</value>
+</Data>
+<Data name="Borough">
+<value>Ahuntsic-Cartierville</value>
+</Data>
+<Data name="Phone">
+<value>514 872-1138</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7957,87889639&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Polyvalente d'Anjou]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Polyvalente d'Anjou</strong></font><br>
+(Indoor pool)<br>
+<b>8205 rue Fonteneau</b><br>
+<b>Anjou</b><br>
+<br>
+<b>Phone:</b> 514 493-8223<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=6958,70901580&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>8205 rue Fonteneau, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Polyvalente d'Anjou</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>8205 rue Fonteneau</value>
+</Data>
+<Data name="Borough">
+<value>Anjou</value>
+</Data>
+<Data name="Phone">
+<value>514 493-8223</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=6958,70901580&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Chénier]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Chénier</strong></font><br>
+(Outdoor pool)<br>
+<b>5555 avenue de l'Aréna</b><br>
+<b>Anjou</b><br>
+<br>
+<b>Phone:</b> 514 493-8229<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=6958,70899606&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>5555 avenue de l&apos;Aréna, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Chénier</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>5555 avenue de l'Aréna</value>
+</Data>
+<Data name="Borough">
+<value>Anjou</value>
+</Data>
+<Data name="Phone">
+<value>514 493-8229</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=6958,70899606&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Des Roseraies]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Des Roseraies</strong></font><br>
+(Outdoor pool)<br>
+<b>7070 avenue de la Nantaise</b><br>
+<b>Anjou</b><br>
+<br>
+<b>Phone:</b> 514 493-8226<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=6958,70899606&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>7070 avenue de la Nantaise, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Des Roseraies</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>7070 avenue de la Nantaise</value>
+</Data>
+<Data name="Borough">
+<value>Anjou</value>
+</Data>
+<Data name="Phone">
+<value>514 493-8226</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=6958,70899606&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Lucie-Bruneau]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Lucie-Bruneau</strong></font><br>
+(Outdoor pool)<br>
+<b>7051 avenue de l'Alsace</b><br>
+<b>Anjou</b><br>
+<br>
+<b>Phone:</b> 514 493-8224<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=6958,70899606&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>7051 avenue de l&apos;Alsace, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Lucie-Bruneau</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>7051 avenue de l'Alsace</value>
+</Data>
+<Data name="Borough">
+<value>Anjou</value>
+</Data>
+<Data name="Phone">
+<value>514 493-8224</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=6958,70899606&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Roger-Rousseau]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Roger-Rousseau</strong></font><br>
+(Outdoor pool)<br>
+<b>7501 avenue Rondeau</b><br>
+<b>Anjou</b><br>
+<br>
+<b>Phone:</b> 514 493-8236<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=6958,70899606&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>7501 avenue Rondeau, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Roger-Rousseau</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>7501 avenue Rondeau</value>
+</Data>
+<Data name="Borough">
+<value>Anjou</value>
+</Data>
+<Data name="Phone">
+<value>514 493-8236</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=6958,70899606&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Verdelles]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Verdelles</strong></font><br>
+(Outdoor pool)<br>
+<b>8441 place Verdelles</b><br>
+<b>Anjou</b><br>
+<br>
+<b>Phone:</b> 514 493-8232<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=6958,70899606&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>8441 place Verdelles, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Verdelles</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>8441 place Verdelles</value>
+</Data>
+<Data name="Borough">
+<value>Anjou</value>
+</Data>
+<Data name="Phone">
+<value>514 493-8232</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=6958,70899606&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Centre récréatif de Beaconsfield]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Centre récréatif de Beaconsfield</strong></font><br>
+(Indoor pool)<br>
+<b>1974 City Lane</b><br>
+<b>Beaconsfield</b><br>
+<br>
+<b>Phone:</b> 514 428-4520<br>
+<b><a href="N/A" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>1974 City Lane, Beaconsfield, QC, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Centre récréatif de Beaconsfield</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>1974 City Lane</value>
+</Data>
+<Data name="Borough">
+<value>Beaconsfield</value>
+</Data>
+<Data name="Phone">
+<value>514 428-4520</value>
+</Data>
+<Data name="URL">
+<value>N/A</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Centre sportif Côte-des-Neiges]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Centre sportif Côte-des-Neiges</strong></font><br>
+(Indoor pool)<br>
+<b>4880 avenue Van Horne</b><br>
+<b>Côte des Neiges–NDG</b><br>
+<br>
+<b>Phone:</b> 514 342-9988 <br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7657,82877589&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>4880 avenue Van Horne, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Centre sportif Côte-des-Neiges</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>4880 avenue Van Horne</value>
+</Data>
+<Data name="Borough">
+<value>Côte des Neiges–NDG</value>
+</Data>
+<Data name="Phone">
+<value>514 342-9988 </value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7657,82877589&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine Notre-Dame-de-Grace]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine Notre-Dame-de-Grace</strong></font><br>
+(Indoor pool)<br>
+<b>3760 boulevard Décarie</b><br>
+<b>Côte des Neiges–NDG</b><br>
+<br>
+<b>Phone:</b> 514 872-6285<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7657,82877589&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>3760 boulevard Décarie, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine Notre-Dame-de-Grace</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>3760 boulevard Décarie</value>
+</Data>
+<Data name="Borough">
+<value>Côte des Neiges–NDG</value>
+</Data>
+<Data name="Phone">
+<value>514 872-6285</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7657,82877589&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Y Notre-Dame-de-Grâce]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Y Notre-Dame-de-Grâce</strong></font><br>
+(Indoor pool)<br>
+<b>4335 avenue Hampton</b><br>
+<b>Côte des Neiges–NDG</b><br>
+<br>
+<b>Phone:</b> 514 486-7315<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7657,82877589&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>4335 avenue Hampton, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Y Notre-Dame-de-Grâce</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>4335 avenue Hampton</value>
+</Data>
+<Data name="Borough">
+<value>Côte des Neiges–NDG</value>
+</Data>
+<Data name="Phone">
+<value>514 486-7315</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7657,82877589&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[de la Confédération]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>de la Confédération</strong></font><br>
+(Outdoor pool)<br>
+<b>6265 avenue Biermans</b><br>
+<b>Côte des Neiges–NDG</b><br>
+<br>
+<b>Phone:</b> 514 872-1125<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7657,82875588&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>6265 avenue Biermans, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>de la Confédération</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>6265 avenue Biermans</value>
+</Data>
+<Data name="Borough">
+<value>Côte des Neiges–NDG</value>
+</Data>
+<Data name="Phone">
+<value>514 872-1125</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7657,82875588&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[de Kent]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>de Kent</strong></font><br>
+(Outdoor pool)<br>
+<b>6262 chemin Hudson</b><br>
+<b>Côte des Neiges–NDG</b><br>
+<br>
+<b>Phone:</b> 514 872-4697<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7657,82875588&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>6262 chemin Hudson, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>de Kent</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>6262 chemin Hudson</value>
+</Data>
+<Data name="Borough">
+<value>Côte des Neiges–NDG</value>
+</Data>
+<Data name="Phone">
+<value>514 872-4697</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7657,82875588&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Centre civique de Dollard-des-Ormeaux]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Centre civique de Dollard-des-Ormeaux</strong></font><br>
+(Indoor pool)<br>
+<b>12001 boulevard de Salaberry</b><br>
+<b>Dollard des Ormeaux</b><br>
+<br>
+<b>Phone:</b> 514 684-1011<br>
+<b><a href="http://www.ville.ddo.qc.ca/en/default.asp?contentID=83" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>12001 boulevard de Salaberry, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Centre civique de Dollard-des-Ormeaux</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>12001 boulevard de Salaberry</value>
+</Data>
+<Data name="Borough">
+<value>Dollard des Ormeaux</value>
+</Data>
+<Data name="Phone">
+<value>514 684-1011</value>
+</Data>
+<Data name="URL">
+<value>http://www.ville.ddo.qc.ca/en/default.asp?contentID=83</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Jean XXIII]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Jean XXIII</strong></font><br>
+(Indoor pool)<br>
+<b>1301 avenue Dawson</b><br>
+<b>Dorval</b><br>
+<br>
+<b>Phone:</b> 514 636-1711 ext. 251<br>
+<b><a href="http://www.ville.dorval.qc.ca/loisirs/en/default.asp?contentID=673" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>1301 avenue Dawson, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Jean XXIII</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>1301 avenue Dawson</value>
+</Data>
+<Data name="Borough">
+<value>Dorval</value>
+</Data>
+<Data name="Phone">
+<value>514 636-1711 ext. 251</value>
+</Data>
+<Data name="URL">
+<value>http://www.ville.dorval.qc.ca/loisirs/en/default.asp?contentID=673</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Ballantyne Aquatic Centres]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Ballantyne Aquatic Centres</strong></font><br>
+(Outdoor pool)<br>
+<b>520 Boul. Bouchard</b><br>
+<b>Dorval</b><br>
+<br>
+<b>Phone:</b> (514) 633-4003<br>
+<b><a href="http://www.ville.dorval.qc.ca/loisirs/en/default.asp?contentID=670" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>520 Boul. Bouchard, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Ballantyne Aquatic Centres</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>520 Boul. Bouchard</value>
+</Data>
+<Data name="Borough">
+<value>Dorval</value>
+</Data>
+<Data name="Phone">
+<value>(514) 633-4003</value>
+</Data>
+<Data name="URL">
+<value>http://www.ville.dorval.qc.ca/loisirs/en/default.asp?contentID=670</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Surrey Aquatic Centre]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Surrey Aquatic Centre</strong></font><br>
+(Outdoor pool)<br>
+<b>1945 Parkfield Ave.</b><br>
+<b>Dorval</b><br>
+<br>
+<b>Phone:</b> (514) 633-4004<br>
+<b><a href="http://www.ville.dorval.qc.ca/loisirs/en/default.asp?contentID=671" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>1945 Parkfield Ave., Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Surrey Aquatic Centre</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>1945 Parkfield Ave.</value>
+</Data>
+<Data name="Borough">
+<value>Dorval</value>
+</Data>
+<Data name="Phone">
+<value>(514) 633-4004</value>
+</Data>
+<Data name="URL">
+<value>http://www.ville.dorval.qc.ca/loisirs/en/default.asp?contentID=671</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Walters Aquatic Centre]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Walters Aquatic Centre</strong></font><br>
+(Outdoor pool)<br>
+<b>1400 Dawson Ave.</b><br>
+<b>Dorval</b><br>
+<br>
+<b>Phone:</b> (514) 633-4005<br>
+<b><a href="http://www.ville.dorval.qc.ca/loisirs/en/default.asp?contentID=672" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>1400 Dawson Ave., Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Walters Aquatic Centre</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>1400 Dawson Ave.</value>
+</Data>
+<Data name="Borough">
+<value>Dorval</value>
+</Data>
+<Data name="Phone">
+<value>(514) 633-4005</value>
+</Data>
+<Data name="URL">
+<value>http://www.ville.dorval.qc.ca/loisirs/en/default.asp?contentID=672</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Complexe sportif du Collège Sainte-Anne]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Complexe sportif du Collège Sainte-Anne</strong></font><br>
+(Indoor pool)<br>
+<b>50 12e Avenue</b><br>
+<b>Lachine</b><br>
+<br>
+<b>Phone:</b> <br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=3157,3582743&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>50 12e Avenue, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Complexe sportif du Collège Sainte-Anne</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>50 12e Avenue</value>
+</Data>
+<Data name="Borough">
+<value>Lachine</value>
+</Data>
+<Data name="Phone">
+<value></value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=3157,3582743&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Duff Court]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Duff Court</strong></font><br>
+(Outdoor pool)<br>
+<b>1830 rue Roy Crescent</b><br>
+<b>Lachine</b><br>
+<br>
+<b>Phone:</b> 514 634-3471 ext. 344<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=3157,3582757&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>1830 rue Roy Crescent, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Duff Court</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>1830 rue Roy Crescent</value>
+</Data>
+<Data name="Borough">
+<value>Lachine</value>
+</Data>
+<Data name="Phone">
+<value>514 634-3471 ext. 344</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=3157,3582757&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Kirkland]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Kirkland</strong></font><br>
+(Outdoor pool)<br>
+<b>150 rue des Érables</b><br>
+<b>Lachine</b><br>
+<br>
+<b>Phone:</b> 514 634-3471 ext. 832<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=3157,3582757&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>150 rue des Érables, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Kirkland</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>150 rue des Érables</value>
+</Data>
+<Data name="Borough">
+<value>Lachine</value>
+</Data>
+<Data name="Phone">
+<value>514 634-3471 ext. 832</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=3157,3582757&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Lasalle]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Lasalle</strong></font><br>
+(Outdoor pool)<br>
+<b>475 10e Avenue</b><br>
+<b>Lachine</b><br>
+<br>
+<b>Phone:</b> 514 634-3471 ext. 327<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=3157,3582757&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>475 10e Avenue, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Lasalle</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>475 10e Avenue</value>
+</Data>
+<Data name="Borough">
+<value>Lachine</value>
+</Data>
+<Data name="Phone">
+<value>514 634-3471 ext. 327</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=3157,3582757&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Centre récréatif Lachine Ouest (private)]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Centre récréatif Lachine Ouest (private)</strong></font><br>
+(Outdoor pool)<br>
+<b>4070 rue Victoria</b><br>
+<b>Lachine</b><br>
+<br>
+<b>Phone:</b> 514 637-0703<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=3157,3582757&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>4070 rue Victoria, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Centre récréatif Lachine Ouest (private)</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>4070 rue Victoria</value>
+</Data>
+<Data name="Borough">
+<value>Lachine</value>
+</Data>
+<Data name="Phone">
+<value>514 637-0703</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=3157,3582757&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Dixie (private)]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Dixie (private)</strong></font><br>
+(Outdoor pool)<br>
+<b>695 54e Avenue</b><br>
+<b>Lachine</b><br>
+<br>
+<b>Phone:</b> 514 637-6149<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=3157,3582757&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>695 54e Avenue, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Dixie (private)</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>695 54e Avenue</value>
+</Data>
+<Data name="Borough">
+<value>Lachine</value>
+</Data>
+<Data name="Phone">
+<value>514 637-6149</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=3157,3582757&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Aquadôme]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Aquadôme</strong></font><br>
+(Indoor pool)<br>
+<b>1411 rue Lapierre</b><br>
+<b>LaSalle</b><br>
+<br>
+<b>Phone:</b> 514 367-6460<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=4338,5683766&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>1411 rue Lapierre, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Aquadôme</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>1411 rue Lapierre</value>
+</Data>
+<Data name="Borough">
+<value>LaSalle</value>
+</Data>
+<Data name="Phone">
+<value>514 367-6460</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=4338,5683766&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Hayward]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Hayward</strong></font><br>
+(Outdoor pool)<br>
+<b>170 avenue Orchard</b><br>
+<b>LaSalle</b><br>
+<br>
+<b>Phone:</b> 514-367-6460<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=4338,5683766&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>170 avenue Orchard, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Hayward</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>170 avenue Orchard</value>
+</Data>
+<Data name="Borough">
+<value>LaSalle</value>
+</Data>
+<Data name="Phone">
+<value>514-367-6460</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=4338,5683766&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Lacharité]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Lacharité</strong></font><br>
+(Outdoor pool)<br>
+<b>55 chemin Latour</b><br>
+<b>LaSalle</b><br>
+<br>
+<b>Phone:</b> 514-367-6461<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=4338,5683766&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>55 chemin Latour, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Lacharité</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>55 chemin Latour</value>
+</Data>
+<Data name="Borough">
+<value>LaSalle</value>
+</Data>
+<Data name="Phone">
+<value>514-367-6461</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=4338,5683766&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Lefebvre]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Lefebvre</strong></font><br>
+(Outdoor pool)<br>
+<b>8600 rue Hardy</b><br>
+<b>LaSalle</b><br>
+<br>
+<b>Phone:</b> 514-367-6462<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=4338,5683766&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>8600 rue Hardy, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Lefebvre</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>8600 rue Hardy</value>
+</Data>
+<Data name="Borough">
+<value>LaSalle</value>
+</Data>
+<Data name="Phone">
+<value>514-367-6462</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=4338,5683766&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Leroux]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Leroux</strong></font><br>
+(Outdoor pool)<br>
+<b>7540 rue Centrale</b><br>
+<b>LaSalle</b><br>
+<br>
+<b>Phone:</b> 514-367-6463<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=4338,5683766&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>7540 rue Centrale, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Leroux</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>7540 rue Centrale</value>
+</Data>
+<Data name="Borough">
+<value>LaSalle</value>
+</Data>
+<Data name="Phone">
+<value>514-367-6463</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=4338,5683766&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Ménard]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Ménard</strong></font><br>
+(Outdoor pool)<br>
+<b>300 rue Clément</b><br>
+<b>LaSalle</b><br>
+<br>
+<b>Phone:</b> 514-367-6464<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=4338,5683766&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>300 rue Clément, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Ménard</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>300 rue Clément</value>
+</Data>
+<Data name="Borough">
+<value>LaSalle</value>
+</Data>
+<Data name="Phone">
+<value>514-367-6464</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=4338,5683766&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Ouellette]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Ouellette</strong></font><br>
+(Outdoor pool)<br>
+<b>1407 rue Serre</b><br>
+<b>LaSalle</b><br>
+<br>
+<b>Phone:</b> 514-367-6465<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=4338,5683766&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>1407 rue Serre, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Ouellette</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>1407 rue Serre</value>
+</Data>
+<Data name="Borough">
+<value>LaSalle</value>
+</Data>
+<Data name="Phone">
+<value>514-367-6465</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=4338,5683766&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Raymond]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Raymond</strong></font><br>
+(Outdoor pool)<br>
+<b>555 boulevard Bishop-Power</b><br>
+<b>LaSalle</b><br>
+<br>
+<b>Phone:</b> 514-367-6466<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=4338,5683766&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>555 boulevard Bishop-Power, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Raymond</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>555 boulevard Bishop-Power</value>
+</Data>
+<Data name="Borough">
+<value>LaSalle</value>
+</Data>
+<Data name="Phone">
+<value>514-367-6466</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=4338,5683766&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Eugène-Dostie]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Eugène-Dostie</strong></font><br>
+(Outdoor pool)<br>
+<b>488 montée de L'Église</b><br>
+<b>Île-Bizard</b><br>
+<br>
+<b>Phone:</b> 514 620-6362<br>
+<b><a href="N/A" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>488 montée de L&apos;Église, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Eugène-Dostie</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>488 montée de L'Église</value>
+</Data>
+<Data name="Borough">
+<value>Île-Bizard</value>
+</Data>
+<Data name="Phone">
+<value>514 620-6362</value>
+</Data>
+<Data name="URL">
+<value>N/A</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[de la Fontaine]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>de la Fontaine</strong></font><br>
+(Outdoor pool)<br>
+<b>150 place de la Fontaine</b><br>
+<b>Nuns' Island</b><br>
+<br>
+<b>Phone:</b> 514 765-7234<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=2480,2900210&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>Place de la Fontaine, Verdun, QC, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>de la Fontaine</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>150 place de la Fontaine</value>
+</Data>
+<Data name="Borough">
+<value>Nuns' Island</value>
+</Data>
+<Data name="Phone">
+<value>514 765-7234</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=2480,2900210&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Elgar]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Elgar</strong></font><br>
+(Outdoor pool)<br>
+<b>260 rue Elgar</b><br>
+<b>Nuns' Island</b><br>
+<br>
+<b>Phone:</b> 514 765-7232<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=2480,2900210&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>260 rue Elgar, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Elgar</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>260 rue Elgar</value>
+</Data>
+<Data name="Borough">
+<value>Nuns' Island</value>
+</Data>
+<Data name="Phone">
+<value>514 765-7232</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=2480,2900210&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine Édouard-Montpetit]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine Édouard-Montpetit</strong></font><br>
+(Indoor pool)<br>
+<b>6100 avenue Pierre-de Coubertin</b><br>
+<b>Mercier–Hochelaga-Maisonneuve</b><br>
+<br>
+<b>Phone:</b> 514 872-6171<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=95,242966&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>6100 avenue Pierre-de Coubertin, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine Édouard-Montpetit</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>6100 avenue Pierre-de Coubertin</value>
+</Data>
+<Data name="Borough">
+<value>Mercier–Hochelaga-Maisonneuve</value>
+</Data>
+<Data name="Phone">
+<value>514 872-6171</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=95,242966&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine Hochelaga]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine Hochelaga</strong></font><br>
+(Indoor pool)<br>
+<b>1870 rue Davidson</b><br>
+<b>Mercier–Hochelaga-Maisonneuve</b><br>
+<br>
+<b>Phone:</b> 514 872-2105<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=95,242966&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>1870 rue Davidson, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine Hochelaga</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>1870 rue Davidson</value>
+</Data>
+<Data name="Borough">
+<value>Mercier–Hochelaga-Maisonneuve</value>
+</Data>
+<Data name="Phone">
+<value>514 872-2105</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=95,242966&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Bain Morgan]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Bain Morgan</strong></font><br>
+(Indoor pool)<br>
+<b>1875 avenue Morgan</b><br>
+<b>Mercier–Hochelaga-Maisonneuve</b><br>
+<br>
+<b>Phone:</b> 514 872-6657<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=95,242966&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>1875 avenue Morgan, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Bain Morgan</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>1875 avenue Morgan</value>
+</Data>
+<Data name="Borough">
+<value>Mercier–Hochelaga-Maisonneuve</value>
+</Data>
+<Data name="Phone">
+<value>514 872-6657</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=95,242966&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Centre sportif du Parc olympique]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Centre sportif du Parc olympique</strong></font><br>
+(Indoor pool)<br>
+<b>3200 rue Viau</b><br>
+<b>Mercier–Hochelaga-Maisonneuve</b><br>
+<br>
+<b>Phone:</b> 514 252-4622<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=95,242966&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>3200 rue Viau, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Centre sportif du Parc olympique</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>3200 rue Viau</value>
+</Data>
+<Data name="Borough">
+<value>Mercier–Hochelaga-Maisonneuve</value>
+</Data>
+<Data name="Phone">
+<value>514 252-4622</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=95,242966&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Y Hochelaga-Maisonneuve]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Y Hochelaga-Maisonneuve</strong></font><br>
+(Indoor pool)<br>
+<b>4567 rue Hochelaga</b><br>
+<b>Mercier–Hochelaga-Maisonneuve</b><br>
+<br>
+<b>Phone:</b> 514 255-4651<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=95,242966&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>4567 rue Hochelaga, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Y Hochelaga-Maisonneuve</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>4567 rue Hochelaga</value>
+</Data>
+<Data name="Borough">
+<value>Mercier–Hochelaga-Maisonneuve</value>
+</Data>
+<Data name="Phone">
+<value>514 255-4651</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=95,242966&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[L.-O.-Taillon]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>L.-O.-Taillon</strong></font><br>
+(Outdoor pool)<br>
+<b>9200 rue Notre-Dame Est</b><br>
+<b>Mercier–Hochelaga-Maisonneuve</b><br>
+<br>
+<b>Phone:</b> 514 872-1126<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=95,242966&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>9200 rue Notre-Dame Est, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>L.-O.-Taillon</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>9200 rue Notre-Dame Est</value>
+</Data>
+<Data name="Borough">
+<value>Mercier–Hochelaga-Maisonneuve</value>
+</Data>
+<Data name="Phone">
+<value>514 872-1126</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=95,242966&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Maisonneuve]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Maisonneuve</strong></font><br>
+(Outdoor pool)<br>
+<b>4350 rue de Rouen</b><br>
+<b>Mercier–Hochelaga-Maisonneuve</b><br>
+<br>
+<b>Phone:</b> 514 872-7634<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=95,242966&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>4350 rue de Rouen, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Maisonneuve</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>4350 rue de Rouen</value>
+</Data>
+<Data name="Borough">
+<value>Mercier–Hochelaga-Maisonneuve</value>
+</Data>
+<Data name="Phone">
+<value>514 872-7634</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=95,242966&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Centre récréatif Édouard-Rivet]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Centre récréatif Édouard-Rivet</strong></font><br>
+(Indoor pool)<br>
+<b>11111 rue Notre-Dame Est</b><br>
+<b>Montreal East</b><br>
+<br>
+<b>Phone:</b> 514 640-2737<br>
+<b><a href="N/A" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>11111 rue Notre-Dame Est, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Centre récréatif Édouard-Rivet</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>11111 rue Notre-Dame Est</value>
+</Data>
+<Data name="Borough">
+<value>Montreal East</value>
+</Data>
+<Data name="Phone">
+<value>514 640-2737</value>
+</Data>
+<Data name="URL">
+<value>N/A</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine Calixa-Lavallée]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine Calixa-Lavallée</strong></font><br>
+(Indoor pool)<br>
+<b>11345 avenue Pelletier</b><br>
+<b>Montreal North</b><br>
+<br>
+<b>Phone:</b> 514 328-4170<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=2120,2653893&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>11345 avenue Pelletier, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine Calixa-Lavallée</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>11345 avenue Pelletier</value>
+</Data>
+<Data name="Borough">
+<value>Montreal North</value>
+</Data>
+<Data name="Phone">
+<value>514 328-4170</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=2120,2653893&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine Henri-Bourassa]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine Henri-Bourassa</strong></font><br>
+(Indoor pool)<br>
+<b>12005 avenue Laurier</b><br>
+<b>Montreal North</b><br>
+<br>
+<b>Phone:</b> 514 328-4171<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=2120,2653893&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>12005 avenue Laurier, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine Henri-Bourassa</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>12005 avenue Laurier</value>
+</Data>
+<Data name="Borough">
+<value>Montreal North</value>
+</Data>
+<Data name="Phone">
+<value>514 328-4171</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=2120,2653893&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Charleroi]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Charleroi</strong></font><br>
+(Outdoor pool)<br>
+<b>10975 avenue Alfred</b><br>
+<b>Montreal North</b><br>
+<br>
+<b>Phone:</b> <br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=2120,2653893&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>10975 avenue Alfred, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Charleroi</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>10975 avenue Alfred</value>
+</Data>
+<Data name="Borough">
+<value>Montreal North</value>
+</Data>
+<Data name="Phone">
+<value></value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=2120,2653893&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Ottawa]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Ottawa</strong></font><br>
+(Outdoor pool)<br>
+<b>10341 avenue de Lausanne</b><br>
+<b>Montreal North</b><br>
+<br>
+<b>Phone:</b> <br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=2120,2653893&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>10341 avenue de Lausanne, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Ottawa</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>10341 avenue de Lausanne</value>
+</Data>
+<Data name="Borough">
+<value>Montreal North</value>
+</Data>
+<Data name="Phone">
+<value></value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=2120,2653893&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Primeau]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Primeau</strong></font><br>
+(Outdoor pool)<br>
+<b>4209 rue de Castille</b><br>
+<b>Montreal North</b><br>
+<br>
+<b>Phone:</b> <br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=2120,2653893&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>4209 rue de Castille, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Primeau</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>4209 rue de Castille</value>
+</Data>
+<Data name="Borough">
+<value>Montreal North</value>
+</Data>
+<Data name="Phone">
+<value></value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=2120,2653893&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Saint-Laurent]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Saint-Laurent</strong></font><br>
+(Outdoor pool)<br>
+<b>11614 avenue Salk</b><br>
+<b>Montreal North</b><br>
+<br>
+<b>Phone:</b> <br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=2120,2653893&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>11614 avenue Salk, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Saint-Laurent</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>11614 avenue Salk</value>
+</Data>
+<Data name="Borough">
+<value>Montreal North</value>
+</Data>
+<Data name="Phone">
+<value></value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=2120,2653893&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[John-F.-Kennedy]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>John-F.-Kennedy</strong></font><br>
+(Outdoor pool)<br>
+<b>860 avenue Outremont</b><br>
+<b>Outremont</b><br>
+<br>
+<b>Phone:</b> 514 495-6253<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=105,2439658&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>860 avenue Outremont, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>John-F.-Kennedy</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>860 avenue Outremont</value>
+</Data>
+<Data name="Borough">
+<value>Outremont</value>
+</Data>
+<Data name="Phone">
+<value>514 495-6253</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=105,2439658&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Des Pins]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Des Pins</strong></font><br>
+(Outdoor pool)<br>
+<b>3975 42e Avenue</b><br>
+<b>Rivière des Prairies–Pointe aux Trembles</b><br>
+<br>
+<b>Phone:</b> 514 642-2940<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7697,84075584&amp;_dad=portal&amp;_schema=PORTAL#piscines_ext" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>3975 42e Avenue, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Des Pins</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>3975 42e Avenue</value>
+</Data>
+<Data name="Borough">
+<value>Rivière des Prairies–Pointe aux Trembles</value>
+</Data>
+<Data name="Phone">
+<value>514 642-2940</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7697,84075584&_dad=portal&_schema=PORTAL#piscines_ext]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Richelieu]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Richelieu</strong></font><br>
+(Outdoor pool)<br>
+<b>285 rue Richelieu</b><br>
+<b>Rivière des Prairies–Pointe aux Trembles</b><br>
+<br>
+<b>Phone:</b> 514 642-2836<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7697,84075584&amp;_dad=portal&amp;_schema=PORTAL#piscines_ext" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>285 rue Richelieu, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Richelieu</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>285 rue Richelieu</value>
+</Data>
+<Data name="Borough">
+<value>Rivière des Prairies–Pointe aux Trembles</value>
+</Data>
+<Data name="Phone">
+<value>514 642-2836</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7697,84075584&_dad=portal&_schema=PORTAL#piscines_ext]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Saint-Georges]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Saint-Georges</strong></font><br>
+(Outdoor pool)<br>
+<b>13050 rue Prince-Albert</b><br>
+<b>Rivière des Prairies–Pointe aux Trembles</b><br>
+<br>
+<b>Phone:</b> 514 640-4320<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7697,84075584&amp;_dad=portal&amp;_schema=PORTAL#piscines_ext" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>13050 rue Prince-Albert, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Saint-Georges</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>13050 rue Prince-Albert</value>
+</Data>
+<Data name="Borough">
+<value>Rivière des Prairies–Pointe aux Trembles</value>
+</Data>
+<Data name="Phone">
+<value>514 640-4320</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7697,84075584&_dad=portal&_schema=PORTAL#piscines_ext]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Sainte-Maria-Goretti]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Sainte-Maria-Goretti</strong></font><br>
+(Outdoor pool)<br>
+<b>490 85e Avenue</b><br>
+<b>Rivière des Prairies–Pointe aux Trembles</b><br>
+<br>
+<b>Phone:</b> 514 642-4044<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7697,84075584&amp;_dad=portal&amp;_schema=PORTAL#piscines_ext" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>490 85e Avenue, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Sainte-Maria-Goretti</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>490 85e Avenue</value>
+</Data>
+<Data name="Borough">
+<value>Rivière des Prairies–Pointe aux Trembles</value>
+</Data>
+<Data name="Phone">
+<value>514 642-4044</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7697,84075584&_dad=portal&_schema=PORTAL#piscines_ext]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Briarwood (private)]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Briarwood (private)</strong></font><br>
+(Outdoor pool)<br>
+<b>12421 rue Pavillon</b><br>
+<b>Pierrefonds</b><br>
+<br>
+<b>Phone:</b> 514 685-8068<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=2479,2897152&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>12421 rue Pavillon, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Briarwood (private)</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>12421 rue Pavillon</value>
+</Data>
+<Data name="Borough">
+<value>Pierrefonds</value>
+</Data>
+<Data name="Phone">
+<value>514 685-8068</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=2479,2897152&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Pierrefonds Park (private)]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Pierrefonds Park (private)</strong></font><br>
+(Outdoor pool)<br>
+<b>355 chemin de la Rive-Boisée</b><br>
+<b>Pierrefonds</b><br>
+<br>
+<b>Phone:</b> 514 696-9159<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=2479,2897152&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>355 chemin de la Rive-Boisée, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Pierrefonds Park (private)</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>355 chemin de la Rive-Boisée</value>
+</Data>
+<Data name="Borough">
+<value>Pierrefonds</value>
+</Data>
+<Data name="Phone">
+<value>514 696-9159</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=2479,2897152&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Thorndale (private)]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Thorndale (private)</strong></font><br>
+(Outdoor pool)<br>
+<b>14921 rue Oakwood</b><br>
+<b>Pierrefonds</b><br>
+<br>
+<b>Phone:</b> 514 696-7670<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=2479,2897152&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>14921 rue Oakwood, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Thorndale (private)</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>14921 rue Oakwood</value>
+</Data>
+<Data name="Borough">
+<value>Pierrefonds</value>
+</Data>
+<Data name="Phone">
+<value>514 696-7670</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=2479,2897152&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Valleycrest (private)]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Valleycrest (private)</strong></font><br>
+(Outdoor pool)<br>
+<b>4600 rue des Cageux</b><br>
+<b>Pierrefonds</b><br>
+<br>
+<b>Phone:</b> 514 696-3482<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=2479,2897152&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>4600 rue des Cageux, Pierrefonds, Québec, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Valleycrest (private)</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>4600 rue des Cageux</value>
+</Data>
+<Data name="Borough">
+<value>Pierrefonds</value>
+</Data>
+<Data name="Phone">
+<value>514 696-3482</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=2479,2897152&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[de Versailles (private)]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>de Versailles (private)</strong></font><br>
+(Outdoor pool)<br>
+<b>13207 rue Desjardins</b><br>
+<b>Pierrefonds</b><br>
+<br>
+<b>Phone:</b> 514 624-4049<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=2479,2897152&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>13207 rue Desjardins, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>de Versailles (private)</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>13207 rue Desjardins</value>
+</Data>
+<Data name="Borough">
+<value>Pierrefonds</value>
+</Data>
+<Data name="Phone">
+<value>514 624-4049</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=2479,2897152&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine du centre du Plateau]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine du centre du Plateau</strong></font><br>
+(Indoor pool)<br>
+<b>2275 boulevard Saint-Joseph Est</b><br>
+<b>Plateau Mont Royal</b><br>
+<br>
+<b>Phone:</b> 514 872-1178<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7297,74493575&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>2275 boulevard Saint-Joseph Est, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine du centre du Plateau</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>2275 boulevard Saint-Joseph Est</value>
+</Data>
+<Data name="Borough">
+<value>Plateau Mont Royal</value>
+</Data>
+<Data name="Phone">
+<value>514 872-1178</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7297,74493575&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine Lévesque]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine Lévesque</strong></font><br>
+(Indoor pool)<br>
+<b>955 rue Marie-Anne Est</b><br>
+<b>Plateau Mont Royal</b><br>
+<br>
+<b>Phone:</b> 514 872-2823<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7297,74493575&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>955 rue Marie-Anne Est, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine Lévesque</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>955 rue Marie-Anne Est</value>
+</Data>
+<Data name="Borough">
+<value>Plateau Mont Royal</value>
+</Data>
+<Data name="Phone">
+<value>514 872-2823</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7297,74493575&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine Schubert]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine Schubert</strong></font><br>
+(Indoor pool)<br>
+<b>3950 boulevard Saint-Laurent</b><br>
+<b>Plateau Mont Royal</b><br>
+<br>
+<b>Phone:</b> 514 872-2587<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7297,74493575&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>3950 boulevard Saint-Laurent, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine Schubert</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>3950 boulevard Saint-Laurent</value>
+</Data>
+<Data name="Borough">
+<value>Plateau Mont Royal</value>
+</Data>
+<Data name="Phone">
+<value>514 872-2587</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7297,74493575&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Y du Parc]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Y du Parc</strong></font><br>
+(Indoor pool)<br>
+<b>5550 avenue du Parc</b><br>
+<b>Plateau Mont Royal</b><br>
+<br>
+<b>Phone:</b> 514 271-9622<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7297,74493575&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>5550 avenue du Parc, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Y du Parc</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>5550 avenue du Parc</value>
+</Data>
+<Data name="Borough">
+<value>Plateau Mont Royal</value>
+</Data>
+<Data name="Phone">
+<value>514 271-9622</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7297,74493575&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Baldwin]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Baldwin</strong></font><br>
+(Outdoor pool)<br>
+<b>2330 rue Rachel Est</b><br>
+<b>Plateau Mont Royal</b><br>
+<br>
+<b>Phone:</b> 514 872-3533<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7297,74493575&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>2330 rue Rachel Est, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Baldwin</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>2330 rue Rachel Est</value>
+</Data>
+<Data name="Borough">
+<value>Plateau Mont Royal</value>
+</Data>
+<Data name="Phone">
+<value>514 872-3533</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7297,74493575&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Sir-Wilfrid-Laurier]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Sir-Wilfrid-Laurier</strong></font><br>
+(Outdoor pool)<br>
+<b>5200 rue De Brébeuf</b><br>
+<b>Plateau Mont Royal</b><br>
+<br>
+<b>Phone:</b> 514 872-4050<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7297,74493575&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>5200 rue De Brébeuf, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Sir-Wilfrid-Laurier</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>5200 rue De Brébeuf</value>
+</Data>
+<Data name="Borough">
+<value>Plateau Mont Royal</value>
+</Data>
+<Data name="Phone">
+<value>514 872-4050</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7297,74493575&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Centre aquatique]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Centre aquatique</strong></font><br>
+(Indoor pool)<br>
+<b>98 rue Douglas Shand</b><br>
+<b>Pointe Claire</b><br>
+<br>
+<b>Phone:</b> 514 630-1202<br>
+<b><a href="http://www.ville.pointe-claire.qc.ca/en_1043_index.php" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>98 rue Douglas Shand, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Centre aquatique</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>98 rue Douglas Shand</value>
+</Data>
+<Data name="Borough">
+<value>Pointe Claire</value>
+</Data>
+<Data name="Phone">
+<value>514 630-1202</value>
+</Data>
+<Data name="URL">
+<value>http://www.ville.pointe-claire.qc.ca/en_1043_index.php</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Y Ouest-de-l'île Centre familial]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Y Ouest-de-l'île Centre familial</strong></font><br>
+(Indoor pool)<br>
+<b>230 boulevard Brunswick</b><br>
+<b>Pointe Claire</b><br>
+<br>
+<b>Phone:</b> 514 630-9622<br>
+<b><a href="http://www.ymcaquebec.org/en/centre/activities/west-island-y-centre/6/" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>230 boulevard Brunswick, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Y Ouest-de-l'île Centre familial</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>230 boulevard Brunswick</value>
+</Data>
+<Data name="Borough">
+<value>Pointe Claire</value>
+</Data>
+<Data name="Phone">
+<value>514 630-9622</value>
+</Data>
+<Data name="URL">
+<value>http://www.ymcaquebec.org/en/centre/activities/west-island-y-centre/6/</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Alexis-Carrel]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Alexis-Carrel</strong></font><br>
+(Outdoor pool)<br>
+<b>12550 avenue Alexis-Carrel</b><br>
+<b>RDP</b><br>
+<br>
+<b>Phone:</b> 514 648-0390<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7697,84075584&amp;_dad=portal&amp;_schema=PORTAL#piscines_ext" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>12550 avenue Alexis-Carrel, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Alexis-Carrel</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>12550 avenue Alexis-Carrel</value>
+</Data>
+<Data name="Borough">
+<value>RDP</value>
+</Data>
+<Data name="Phone">
+<value>514 648-0390</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7697,84075584&_dad=portal&_schema=PORTAL#piscines_ext]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Centre aquatique de Rivière-des-Prairies]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Centre aquatique de Rivière-des-Prairies</strong></font><br>
+(Indoor pool)<br>
+<b>12515 boulevard Rodolphe-Forget</b><br>
+<b>Rivière des Prairies–Pointe aux Trembles</b><br>
+<br>
+<b>Phone:</b> 514 872-9322<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7697,85205584&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>12515 boulevard Rodolphe-Forget, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Centre aquatique de Rivière-des-Prairies</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>12515 boulevard Rodolphe-Forget</value>
+</Data>
+<Data name="Borough">
+<value>Rivière des Prairies–Pointe aux Trembles</value>
+</Data>
+<Data name="Phone">
+<value>514 872-9322</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7697,85205584&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine de Pointe-aux-Trembles]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine de Pointe-aux-Trembles</strong></font><br>
+(Indoor pool)<br>
+<b>15200 rue Sherbrooke Est</b><br>
+<b>Rivière des Prairies–Pointe aux Trembles</b><br>
+<br>
+<b>Phone:</b> 514 872-6237<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7697,84075584&amp;_dad=portal&amp;_schema=PORTAL#piscines_int" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>15200 rue Sherbrooke Est, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine de Pointe-aux-Trembles</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>15200 rue Sherbrooke Est</value>
+</Data>
+<Data name="Borough">
+<value>Rivière des Prairies–Pointe aux Trembles</value>
+</Data>
+<Data name="Phone">
+<value>514 872-6237</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7697,84075584&_dad=portal&_schema=PORTAL#piscines_int]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine Roussin]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine Roussin</strong></font><br>
+(Indoor pool)<br>
+<b>12125 rue Notre-Dame Est</b><br>
+<b>Rivière des Prairies–Pointe aux Trembles</b><br>
+<br>
+<b>Phone:</b> 514 645-4519<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7697,84075584&amp;_dad=portal&amp;_schema=PORTAL#piscines_int" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>12125 rue Notre-Dame Est, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine Roussin</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>12125 rue Notre-Dame Est</value>
+</Data>
+<Data name="Borough">
+<value>Rivière des Prairies–Pointe aux Trembles</value>
+</Data>
+<Data name="Phone">
+<value>514 645-4519</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7697,84075584&_dad=portal&_schema=PORTAL#piscines_int]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine Père-Marquette]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine Père-Marquette</strong></font><br>
+(Indoor pool)<br>
+<b>1600 rue De Drucourt</b><br>
+<b>Rosemont–La Petite Patrie</b><br>
+<br>
+<b>Phone:</b> 514 872-4714<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7357,76041570&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>1600 rue De Drucourt, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine Père-Marquette</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>1600 rue De Drucourt</value>
+</Data>
+<Data name="Borough">
+<value>Rosemont–La Petite Patrie</value>
+</Data>
+<Data name="Phone">
+<value>514 872-4714</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7357,76041570&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine Rosemont]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine Rosemont</strong></font><br>
+(Indoor pool)<br>
+<b>6101 8e Avenue</b><br>
+<b>Rosemont–La Petite Patrie</b><br>
+<br>
+<b>Phone:</b> 514 872-6622<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7357,76041570&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>6101 8e Avenue, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine Rosemont</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>6101 8e Avenue</value>
+</Data>
+<Data name="Borough">
+<value>Rosemont–La Petite Patrie</value>
+</Data>
+<Data name="Phone">
+<value>514 872-6622</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7357,76041570&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine Saint-Denis]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine Saint-Denis</strong></font><br>
+(Indoor pool)<br>
+<b>7075 rue Saint-Hubert</b><br>
+<b>Rosemont–La Petite Patrie</b><br>
+<br>
+<b>Phone:</b> 514 872-4651<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7357,76041570&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>7075 rue Saint-Hubert, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine Saint-Denis</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>7075 rue Saint-Hubert</value>
+</Data>
+<Data name="Borough">
+<value>Rosemont–La Petite Patrie</value>
+</Data>
+<Data name="Phone">
+<value>514 872-4651</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7357,76041570&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[ÉPIC]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>ÉPIC</strong></font><br>
+(Indoor pool)<br>
+<b>5055 rue Saint-Zotique Est</b><br>
+<b>Rosemont–La Petite Patrie</b><br>
+<br>
+<b>Phone:</b> 514 872-6598<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7357,76041570&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>5055 rue Saint-Zotique Est, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>ÉPIC</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>5055 rue Saint-Zotique Est</value>
+</Data>
+<Data name="Borough">
+<value>Rosemont–La Petite Patrie</value>
+</Data>
+<Data name="Phone">
+<value>514 872-6598</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7357,76041570&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Joseph-Paré]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Joseph-Paré</strong></font><br>
+(Outdoor pool)<br>
+<b>6525 41e Avenue</b><br>
+<b>Rosemont–La Petite Patrie</b><br>
+<br>
+<b>Phone:</b> 514 872-1130<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7357,76041570&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>6525 41e Avenue, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Joseph-Paré</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>6525 41e Avenue</value>
+</Data>
+<Data name="Borough">
+<value>Rosemont–La Petite Patrie</value>
+</Data>
+<Data name="Phone">
+<value>514 872-1130</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7357,76041570&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[du Pélican]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>du Pélican</strong></font><br>
+(Outdoor pool)<br>
+<b>2590 rue Masson</b><br>
+<b>Rosemont–La Petite Patrie</b><br>
+<br>
+<b>Phone:</b> 514 872-3589<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7357,76041570&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>2590 rue Masson, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>du Pélican</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>2590 rue Masson</value>
+</Data>
+<Data name="Borough">
+<value>Rosemont–La Petite Patrie</value>
+</Data>
+<Data name="Phone">
+<value>514 872-3589</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7357,76041570&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Roxboro]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Roxboro</strong></font><br>
+(Outdoor pool)<br>
+<b>53 avenue Georges-Vanier</b><br>
+<b>Roxboro</b><br>
+<br>
+<b>Phone:</b> 514 684-9584<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=2479,2897152&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>53 avenue Georges-Vanier, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Roxboro</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>53 avenue Georges-Vanier</value>
+</Data>
+<Data name="Borough">
+<value>Roxboro</value>
+</Data>
+<Data name="Phone">
+<value>514 684-9584</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=2479,2897152&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Robert-Sauvé]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Robert-Sauvé</strong></font><br>
+(Outdoor pool)<br>
+<b>15736 A  rue de la Caserne</b><br>
+<b>St. Geneviève</b><br>
+<br>
+<b>Phone:</b> 514 620-7098<br>
+<b><a href="N/A" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>15736 A  rue de la Caserne, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Robert-Sauvé</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>15736 A  rue de la Caserne</value>
+</Data>
+<Data name="Borough">
+<value>St. Geneviève</value>
+</Data>
+<Data name="Phone">
+<value>514 620-7098</value>
+</Data>
+<Data name="URL">
+<value>N/A</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Bourbonnière]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Bourbonnière</strong></font><br>
+(Outdoor pool)<br>
+<b>2800 rue Cazeneuve</b><br>
+<b>St. Laurent</b><br>
+<br>
+<b>Phone:</b> 514 956-2597<br>
+<b><a href="N/A" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>2800 rue Cazeneuve, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Bourbonnière</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>2800 rue Cazeneuve</value>
+</Data>
+<Data name="Borough">
+<value>St. Laurent</value>
+</Data>
+<Data name="Phone">
+<value>514 956-2597</value>
+</Data>
+<Data name="URL">
+<value>N/A</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Chamberland]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Chamberland</strong></font><br>
+(Outdoor pool)<br>
+<b>800 rue Dorais</b><br>
+<b>St. Laurent</b><br>
+<br>
+<b>Phone:</b> 514 855-6105<br>
+<b><a href="N/A" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>800 rue Dorais, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Chamberland</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>800 rue Dorais</value>
+</Data>
+<Data name="Borough">
+<value>St. Laurent</value>
+</Data>
+<Data name="Phone">
+<value>514 855-6105</value>
+</Data>
+<Data name="URL">
+<value>N/A</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Decelles]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Decelles</strong></font><br>
+(Outdoor pool)<br>
+<b>845 rue Roy</b><br>
+<b>St. Laurent</b><br>
+<br>
+<b>Phone:</b> 514 855-6107<br>
+<b><a href="N/A" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>845 rue Roy, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Decelles</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>845 rue Roy</value>
+</Data>
+<Data name="Borough">
+<value>St. Laurent</value>
+</Data>
+<Data name="Phone">
+<value>514 855-6107</value>
+</Data>
+<Data name="URL">
+<value>N/A</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Hartenstein]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Hartenstein</strong></font><br>
+(Outdoor pool)<br>
+<b>1505 rue Cardinal</b><br>
+<b>St. Laurent</b><br>
+<br>
+<b>Phone:</b> 514 855-6117<br>
+<b><a href="N/A" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>1505 rue Cardinal, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Hartenstein</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>1505 rue Cardinal</value>
+</Data>
+<Data name="Borough">
+<value>St. Laurent</value>
+</Data>
+<Data name="Phone">
+<value>514 855-6117</value>
+</Data>
+<Data name="URL">
+<value>N/A</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Marlborough]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Marlborough</strong></font><br>
+(Outdoor pool)<br>
+<b>2305 rue Beauzèle</b><br>
+<b>St. Laurent</b><br>
+<br>
+<b>Phone:</b> 514 956-2595<br>
+<b><a href="N/A" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>2305 rue Beauzèle, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Marlborough</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>2305 rue Beauzèle</value>
+</Data>
+<Data name="Borough">
+<value>St. Laurent</value>
+</Data>
+<Data name="Phone">
+<value>514 956-2595</value>
+</Data>
+<Data name="URL">
+<value>N/A</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Noël-Nord]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Noël-Nord</strong></font><br>
+(Outdoor pool)<br>
+<b>2900 rue Baker</b><br>
+<b>St. Laurent</b><br>
+<br>
+<b>Phone:</b> 514 956-2593<br>
+<b><a href="N/A" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>2900 rue Baker, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Noël-Nord</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>2900 rue Baker</value>
+</Data>
+<Data name="Borough">
+<value>St. Laurent</value>
+</Data>
+<Data name="Phone">
+<value>514 956-2593</value>
+</Data>
+<Data name="URL">
+<value>N/A</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Painter]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Painter</strong></font><br>
+(Outdoor pool)<br>
+<b>260 rue Marcotte</b><br>
+<b>St. Laurent</b><br>
+<br>
+<b>Phone:</b> 514 956-2588<br>
+<b><a href="N/A" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>260 rue Marcotte, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Painter</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>260 rue Marcotte</value>
+</Data>
+<Data name="Borough">
+<value>St. Laurent</value>
+</Data>
+<Data name="Phone">
+<value>514 956-2588</value>
+</Data>
+<Data name="URL">
+<value>N/A</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Saint-Laurent]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Saint-Laurent</strong></font><br>
+(Outdoor pool)<br>
+<b>845 rue Poirier</b><br>
+<b>St. Laurent</b><br>
+<br>
+<b>Phone:</b> 514 855-6127<br>
+<b><a href="N/A" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>845 rue Poirier, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Saint-Laurent</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>845 rue Poirier</value>
+</Data>
+<Data name="Borough">
+<value>St. Laurent</value>
+</Data>
+<Data name="Phone">
+<value>514 855-6127</value>
+</Data>
+<Data name="URL">
+<value>N/A</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Complexe aquatique de Saint-Léonard]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Complexe aquatique de Saint-Léonard</strong></font><br>
+(Indoor pool)<br>
+<b>5115 rue des Galets</b><br>
+<b>St. Leonard</b><br>
+<br>
+<b>Phone:</b> 514 328-8595; Info-bains: 514 321-6440<br>
+<b><a href="http://www.complexeaquatiquesaint-leonard.ca/" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>5115 rue des Galets, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Complexe aquatique de Saint-Léonard</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>5115 rue des Galets</value>
+</Data>
+<Data name="Borough">
+<value>St. Leonard</value>
+</Data>
+<Data name="Phone">
+<value>514 328-8595; Info-bains: 514 321-6440</value>
+</Data>
+<Data name="URL">
+<value>http://www.complexeaquatiquesaint-leonard.ca/</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Ferland]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Ferland</strong></font><br>
+(Outdoor pool)<br>
+<b>6020 boulevard Lavoisier</b><br>
+<b>St. Leonard</b><br>
+<br>
+<b>Phone:</b> <br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7157,73379570&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>6020 boulevard Lavoisier, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Ferland</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>6020 boulevard Lavoisier</value>
+</Data>
+<Data name="Borough">
+<value>St. Leonard</value>
+</Data>
+<Data name="Phone">
+<value></value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7157,73379570&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Giuseppe-Garibaldi]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Giuseppe-Garibaldi</strong></font><br>
+(Outdoor pool)<br>
+<b>7125 rue Liénart</b><br>
+<b>St. Leonard</b><br>
+<br>
+<b>Phone:</b> <br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7157,73379570&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>7125 rue Liénart, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Giuseppe-Garibaldi</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>7125 rue Liénart</value>
+</Data>
+<Data name="Borough">
+<value>St. Leonard</value>
+</Data>
+<Data name="Phone">
+<value></value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7157,73379570&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Hébert]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Hébert</strong></font><br>
+(Outdoor pool)<br>
+<b>7655 rue Colbert</b><br>
+<b>St. Leonard</b><br>
+<br>
+<b>Phone:</b> <br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7157,73379570&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>7655 rue Colbert, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Hébert</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>7655 rue Colbert</value>
+</Data>
+<Data name="Borough">
+<value>St. Leonard</value>
+</Data>
+<Data name="Phone">
+<value></value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7157,73379570&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Ladauversière]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Ladauversière</strong></font><br>
+(Outdoor pool)<br>
+<b>7560 boulevard Lacordaire</b><br>
+<b>St. Leonard</b><br>
+<br>
+<b>Phone:</b> <br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7157,73379570&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>7560 boulevard Lacordaire, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Ladauversière</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>7560 boulevard Lacordaire</value>
+</Data>
+<Data name="Borough">
+<value>St. Leonard</value>
+</Data>
+<Data name="Phone">
+<value></value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7157,73379570&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Pie-XII]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Pie-XII</strong></font><br>
+(Outdoor pool)<br>
+<b>5200 boulevard Lavoisier</b><br>
+<b>St. Leonard</b><br>
+<br>
+<b>Phone:</b> <br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7157,73379570&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>5200 boulevard Lavoisier, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Pie-XII</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>5200 boulevard Lavoisier</value>
+</Data>
+<Data name="Borough">
+<value>St. Leonard</value>
+</Data>
+<Data name="Phone">
+<value></value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7157,73379570&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Wilfrid-Bastien]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Wilfrid-Bastien</strong></font><br>
+(Outdoor pool)<br>
+<b>8255 boulevard Lacordaire</b><br>
+<b>St. Leonard</b><br>
+<br>
+<b>Phone:</b> <br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7157,73379570&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>8255 boulevard Lacordaire, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Wilfrid-Bastien</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>8255 boulevard Lacordaire</value>
+</Data>
+<Data name="Borough">
+<value>St. Leonard</value>
+</Data>
+<Data name="Phone">
+<value></value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7157,73379570&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Cégep John Abbott]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Cégep John Abbott</strong></font><br>
+(Indoor pool)<br>
+<b>21111 chemin Lakeshore</b><br>
+<b>St. Anne de Bellevue</b><br>
+<br>
+<b>Phone:</b> 514 457-2737<br>
+<b><a href="http://www.johnabbott.qc.ca/public-media/casgrain-sport-center/casgrain-sport-centre/pool" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>21111 chemin Lakeshore, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Cégep John Abbott</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>21111 chemin Lakeshore</value>
+</Data>
+<Data name="Borough">
+<value>St. Anne de Bellevue</value>
+</Data>
+<Data name="Phone">
+<value>514 457-2737</value>
+</Data>
+<Data name="URL">
+<value>http://www.johnabbott.qc.ca/public-media/casgrain-sport-center/casgrain-sport-centre/pool</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine Émile-Legault]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine Émile-Legault</strong></font><br>
+(Indoor pool)<br>
+<b>2395 boulevard Thimens</b><br>
+<b>St. Laurent</b><br>
+<br>
+<b>Phone:</b> 514 855-6110<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7937,86763613&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>2395 boulevard Thimens, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine Émile-Legault</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>2395 boulevard Thimens</value>
+</Data>
+<Data name="Borough">
+<value>St. Laurent</value>
+</Data>
+<Data name="Phone">
+<value>514 855-6110</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7937,86763613&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Laurenhill Junior Campus]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Laurenhill Junior Campus</strong></font><br>
+(Indoor pool)<br>
+<b>2350 boulevard de la Côte-Vertu</b><br>
+<b>St. Laurent</b><br>
+<br>
+<b>Phone:</b> 514 855-6110<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7937,86763613&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>2350 boulevard de la Côte-Vertu, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Laurenhill Junior Campus</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>2350 boulevard de la Côte-Vertu</value>
+</Data>
+<Data name="Borough">
+<value>St. Laurent</value>
+</Data>
+<Data name="Phone">
+<value>514 855-6110</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7937,86763613&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Y Saint-Laurent]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Y Saint-Laurent</strong></font><br>
+(Indoor pool)<br>
+<b>1745 boulevard Décarie</b><br>
+<b>St. Laurent</b><br>
+<br>
+<b>Phone:</b> 514 747-9801<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7937,86793755&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>1745 boulevard Décarie, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Y Saint-Laurent</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>1745 boulevard Décarie</value>
+</Data>
+<Data name="Borough">
+<value>St. Laurent</value>
+</Data>
+<Data name="Phone">
+<value>514 747-9801</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7937,86793755&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Bain Émard]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Bain Émard</strong></font><br>
+(Indoor pool)<br>
+<b>6071 rue Laurendeau</b><br>
+<b>Sud Ouest</b><br>
+<br>
+<b>Phone:</b> 514 872-2585<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7757,84749632&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>6071 rue Laurendeau, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Bain Émard</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>6071 rue Laurendeau</value>
+</Data>
+<Data name="Borough">
+<value>Sud Ouest</value>
+</Data>
+<Data name="Phone">
+<value>514 872-2585</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7757,84749632&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Complexe récréatif Gadbois]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Complexe récréatif Gadbois</strong></font><br>
+(Indoor pool)<br>
+<b>5485 chemin de la Côte-Saint-Paul</b><br>
+<b>Sud Ouest</b><br>
+<br>
+<b>Phone:</b> 514 872-2581<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7757,84749632&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>5485 chemin de la Côte-Saint-Paul, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Complexe récréatif Gadbois</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>5485 chemin de la Côte-Saint-Paul</value>
+</Data>
+<Data name="Borough">
+<value>Sud Ouest</value>
+</Data>
+<Data name="Phone">
+<value>514 872-2581</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7757,84749632&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Centre sportif de la Petite-Bourgogne]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Centre sportif de la Petite-Bourgogne</strong></font><br>
+(Indoor pool)<br>
+<b>1825 rue Notre-Dame Ouest</b><br>
+<b>Sud Ouest</b><br>
+<br>
+<b>Phone:</b> 514 932-0800<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7757,84749632&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>1825 rue Notre-Dame Ouest, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Centre sportif de la Petite-Bourgogne</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>1825 rue Notre-Dame Ouest</value>
+</Data>
+<Data name="Borough">
+<value>Sud Ouest</value>
+</Data>
+<Data name="Phone">
+<value>514 932-0800</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7757,84749632&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine Saint-Charles]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine Saint-Charles</strong></font><br>
+(Indoor pool)<br>
+<b>1055 rue Hibernia</b><br>
+<b>Sud Ouest</b><br>
+<br>
+<b>Phone:</b> 514 872-2501<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7757,84749632&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>1055 rue Hibernia, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine Saint-Charles</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>1055 rue Hibernia</value>
+</Data>
+<Data name="Borough">
+<value>Sud Ouest</value>
+</Data>
+<Data name="Phone">
+<value>514 872-2501</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7757,84749632&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine Saint-Henri]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine Saint-Henri</strong></font><br>
+(Indoor pool)<br>
+<b>4055 rue Saint-Jacques</b><br>
+<b>Sud Ouest</b><br>
+<br>
+<b>Phone:</b> 514 872-2577<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7757,84749632&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>4055 rue Saint-Jacques, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine Saint-Henri</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>4055 rue Saint-Jacques</value>
+</Data>
+<Data name="Borough">
+<value>Sud Ouest</value>
+</Data>
+<Data name="Phone">
+<value>514 872-2577</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7757,84749632&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Y Pointe-Saint-Charles]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Y Pointe-Saint-Charles</strong></font><br>
+(Indoor pool)<br>
+<b>255 avenue Ash</b><br>
+<b>Sud Ouest</b><br>
+<br>
+<b>Phone:</b> 514 935-4711<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7757,84749632&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>255 avenue Ash, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Y Pointe-Saint-Charles</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>255 avenue Ash</value>
+</Data>
+<Data name="Borough">
+<value>Sud Ouest</value>
+</Data>
+<Data name="Phone">
+<value>514 935-4711</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7757,84749632&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[George-Étienne Cartier]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>George-Étienne Cartier</strong></font><br>
+(Outdoor pool)<br>
+<b>4550 rue Sainte-Émilie</b><br>
+<b>Sud Ouest</b><br>
+<br>
+<b>Phone:</b> 514 872-3539<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7757,84749657&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>4550 rue Sainte-Émilie, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>George-Étienne Cartier</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>4550 rue Sainte-Émilie</value>
+</Data>
+<Data name="Borough">
+<value>Sud Ouest</value>
+</Data>
+<Data name="Phone">
+<value>514 872-3539</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7757,84749657&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Ignace Bourget]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Ignace Bourget</strong></font><br>
+(Outdoor pool)<br>
+<b>5925 avenue de Montmagny</b><br>
+<b>Sud Ouest</b><br>
+<br>
+<b>Phone:</b> 514 872-1120<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7757,84749657&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>5925 avenue de Montmagny, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Ignace Bourget</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>5925 avenue de Montmagny</value>
+</Data>
+<Data name="Borough">
+<value>Sud Ouest</value>
+</Data>
+<Data name="Phone">
+<value>514 872-1120</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7757,84749657&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine de l'Académie Beurling]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine de l'Académie Beurling</strong></font><br>
+(Indoor pool)<br>
+<b>6100 boulevard Champlain</b><br>
+<b>Verdun</b><br>
+<br>
+<b>Phone:</b> 514 765-7150<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=2480,3591789&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>6100 boulevard Champlain, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine de l'Académie Beurling</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>6100 boulevard Champlain</value>
+</Data>
+<Data name="Borough">
+<value>Verdun</value>
+</Data>
+<Data name="Phone">
+<value>514 765-7150</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=2480,3591789&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Natatorium]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Natatorium</strong></font><br>
+(Outdoor pool)<br>
+<b>6500 boulevard LaSalle</b><br>
+<b>Verdun</b><br>
+<br>
+<b>Phone:</b> 514 765-7230<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=2480,2900210&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>6500 boulevard LaSalle, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Natatorium</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>6500 boulevard LaSalle</value>
+</Data>
+<Data name="Borough">
+<value>Verdun</value>
+</Data>
+<Data name="Phone">
+<value>514 765-7230</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=2480,2900210&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Arthur-Therrien]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Arthur-Therrien</strong></font><br>
+(Outdoor pool)<br>
+<b>10 rue Hickson</b><br>
+<b>Verdun</b><br>
+<br>
+<b>Phone:</b> <br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=2480,2900210&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>4110 Boulevard Gaétan Laberge, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Arthur-Therrien</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>10 rue Hickson</value>
+</Data>
+<Data name="Borough">
+<value>Verdun</value>
+</Data>
+<Data name="Phone">
+<value></value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=2480,2900210&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[CEGEP du Vieux-Montréal]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>CEGEP du Vieux-Montréal</strong></font><br>
+(Indoor pool)<br>
+<b>255 rue Ontario Est</b><br>
+<b>Ville Marie</b><br>
+<br>
+<b>Phone:</b> 514 982-3457<br>
+<b><a href="http://www.cvm.qc.ca/servicescommunaute/centresportif/Pages/index.aspx" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>255 rue Ontario Est, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>CEGEP du Vieux-Montréal</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>255 rue Ontario Est</value>
+</Data>
+<Data name="Borough">
+<value>Ville Marie</value>
+</Data>
+<Data name="Phone">
+<value>514 982-3457</value>
+</Data>
+<Data name="URL">
+<value>http://www.cvm.qc.ca/servicescommunaute/centresportif/Pages/index.aspx</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine Quintal]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine Quintal</strong></font><br>
+(Indoor pool)<br>
+<b>1550 rue Dufresne</b><br>
+<b>Ville Marie</b><br>
+<br>
+<b>Phone:</b> 514 872-2864<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7317,78925591&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>1550 rue Dufresne, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine Quintal</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>1550 rue Dufresne</value>
+</Data>
+<Data name="Borough">
+<value>Ville Marie</value>
+</Data>
+<Data name="Phone">
+<value>514 872-2864</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=7317,78925591&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine du Centre Jean-Claude-Malépart]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine du Centre Jean-Claude-Malépart</strong></font><br>
+(Indoor pool)<br>
+<b>2633 rue Ontario Est</b><br>
+<b>Ville Marie</b><br>
+<br>
+<b>Phone:</b> 514 521-6884<br>
+<b><a href="http://www.cjcm.ca/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=78&amp;Itemid=95" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>2633 rue Ontario Est, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine du Centre Jean-Claude-Malépart</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>2633 rue Ontario Est</value>
+</Data>
+<Data name="Borough">
+<value>Ville Marie</value>
+</Data>
+<Data name="Phone">
+<value>514 521-6884</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://www.cjcm.ca/index.php?option=com_content&view=category&layout=blog&id=78&Itemid=95]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine de l'Association sportive et communautaire du Centre-Sud]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine de l'Association sportive et communautaire du Centre-Sud</strong></font><br>
+(Indoor pool)<br>
+<b>2093 rue de la Visitation</b><br>
+<b>Ville Marie</b><br>
+<br>
+<b>Phone:</b> 514 522-2246<br>
+<b><a href="http://asccs.qc.ca/services/piscine" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>2093 rue de la Visitation, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine de l'Association sportive et communautaire du Centre-Sud</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>2093 rue de la Visitation</value>
+</Data>
+<Data name="Borough">
+<value>Ville Marie</value>
+</Data>
+<Data name="Phone">
+<value>514 522-2246</value>
+</Data>
+<Data name="URL">
+<value>http://asccs.qc.ca/services/piscine</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Y Centre-Ville]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Y Centre-Ville</strong></font><br>
+(Indoor pool)<br>
+<b>1440 rue Stanley</b><br>
+<b>Ville Marie</b><br>
+<br>
+<b>Phone:</b> 514 849-8393 ext. 711<br>
+<b><a href="http://www.ymcaquebec.org/fr/centre/installations/centre-y-centre-ville/1/" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>1440 rue Stanley, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Y Centre-Ville</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>1440 rue Stanley</value>
+</Data>
+<Data name="Borough">
+<value>Ville Marie</value>
+</Data>
+<Data name="Phone">
+<value>514 849-8393 ext. 711</value>
+</Data>
+<Data name="URL">
+<value>http://www.ymcaquebec.org/fr/centre/installations/centre-y-centre-ville/1/</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Y Guy-Favreau]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Y Guy-Favreau</strong></font><br>
+(Indoor pool)<br>
+<b>200 boulevard René-Lévesque Ouest</b><br>
+<b>Ville Marie</b><br>
+<br>
+<b>Phone:</b> 514 845-4277<br>
+<b><a href="http://www.ymcaquebec.org/fr/centre/installations/centre-y-guy-favreau/3/" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>200 boulevard René-Lévesque Ouest, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Y Guy-Favreau</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>200 boulevard René-Lévesque Ouest</value>
+</Data>
+<Data name="Borough">
+<value>Ville Marie</value>
+</Data>
+<Data name="Phone">
+<value>514 845-4277</value>
+</Data>
+<Data name="URL">
+<value>http://www.ymcaquebec.org/fr/centre/installations/centre-y-guy-favreau/3/</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Plage du parc Jean-Drapeau]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Plage du parc Jean-Drapeau</strong></font><br>
+(Outdoor pool)<br>
+<b>Notre Dame Island</b><br>
+<b>Ville Marie</b><br>
+<br>
+<b>Phone:</b> 514 872-6120<br>
+<b><a href="http://www.parcjeandrapeau.com/24-Beach-montreal-attraction.html" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>Notre Dame Island, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Plage du parc Jean-Drapeau</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>Notre Dame Island</value>
+</Data>
+<Data name="Borough">
+<value>Ville Marie</value>
+</Data>
+<Data name="Phone">
+<value>514 872-6120</value>
+</Data>
+<Data name="URL">
+<value>http://www.parcjeandrapeau.com/24-Beach-montreal-attraction.html</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine Georges-Vernot]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine Georges-Vernot</strong></font><br>
+(Indoor pool)<br>
+<b>8475 13e Avenue</b><br>
+<b>Villeray–St. Michel–Park Extension</b><br>
+<br>
+<b>Phone:</b> 514 872-5605<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=91,1983236&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>8475 13e Avenue, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine Georges-Vernot</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>8475 13e Avenue</value>
+</Data>
+<Data name="Borough">
+<value>Villeray–St. Michel–Park Extension</value>
+</Data>
+<Data name="Phone">
+<value>514 872-5605</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=91,1983236&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine John-Fitzgerald-Kennedy]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine John-Fitzgerald-Kennedy</strong></font><br>
+(Indoor pool)<br>
+<b>3030 rue Villeray Est</b><br>
+<b>Villeray–St. Michel–Park Extension</b><br>
+<br>
+<b>Phone:</b> 514 872-5608<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=91,1983236&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>3030 rue Villeray Est, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine John-Fitzgerald-Kennedy</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>3030 rue Villeray Est</value>
+</Data>
+<Data name="Borough">
+<value>Villeray–St. Michel–Park Extension</value>
+</Data>
+<Data name="Phone">
+<value>514 872-5608</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=91,1983236&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine Joseph-Charbonneau]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine Joseph-Charbonneau</strong></font><br>
+(Indoor pool)<br>
+<b>8200 rue Rousselot</b><br>
+<b>Villeray–St. Michel–Park Extension</b><br>
+<br>
+<b>Phone:</b> 514 872-3261<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=91,1983236&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>8200 rue Rousselot, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine Joseph-Charbonneau</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>8200 rue Rousselot</value>
+</Data>
+<Data name="Borough">
+<value>Villeray–St. Michel–Park Extension</value>
+</Data>
+<Data name="Phone">
+<value>514 872-3261</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=91,1983236&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Patro Le Prévost]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Patro Le Prévost</strong></font><br>
+(Indoor pool)<br>
+<b>7355 avenue Christophe-Colomb</b><br>
+<b>Villeray–St. Michel–Park Extension</b><br>
+<br>
+<b>Phone:</b> 514 273-8535<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=91,1983236&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>7355 avenue Christophe-Colomb, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Patro Le Prévost</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>7355 avenue Christophe-Colomb</value>
+</Data>
+<Data name="Borough">
+<value>Villeray–St. Michel–Park Extension</value>
+</Data>
+<Data name="Phone">
+<value>514 273-8535</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=91,1983236&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine René-Goupil]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine René-Goupil</strong></font><br>
+(Indoor pool)<br>
+<b>4250 rue René-Goupil</b><br>
+<b>Villeray–St. Michel–Park Extension</b><br>
+<br>
+<b>Phone:</b> 514 872-5632<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=91,1983236&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>4250 rue René-Goupil, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine René-Goupil</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>4250 rue René-Goupil</value>
+</Data>
+<Data name="Borough">
+<value>Villeray–St. Michel–Park Extension</value>
+</Data>
+<Data name="Phone">
+<value>514 872-5632</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=91,1983236&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Piscine Saint-Roch]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Piscine Saint-Roch</strong></font><br>
+(Indoor pool)<br>
+<b>400 rue Ball</b><br>
+<b>Villeray–St. Michel–Park Extension</b><br>
+<br>
+<b>Phone:</b> 514 271-4086<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=91,1983236&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>400 rue Ball, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Piscine Saint-Roch</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>400 rue Ball</value>
+</Data>
+<Data name="Borough">
+<value>Villeray–St. Michel–Park Extension</value>
+</Data>
+<Data name="Phone">
+<value>514 271-4086</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=91,1983236&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[François-Perrault]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>François-Perrault</strong></font><br>
+(Outdoor pool)<br>
+<b>7525 rue François-Perrault</b><br>
+<b>Villeray–St. Michel–Park Extension</b><br>
+<br>
+<b>Phone:</b> 514 872-1133<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=91,1983236&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>7525 rue François-Perrault, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>François-Perrault</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>7525 rue François-Perrault</value>
+</Data>
+<Data name="Borough">
+<value>Villeray–St. Michel–Park Extension</value>
+</Data>
+<Data name="Phone">
+<value>514 872-1133</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=91,1983236&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Jarry]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Jarry</strong></font><br>
+(Outdoor pool)<br>
+<b>205 rue Faillon Ouest</b><br>
+<b>Villeray–St. Michel–Park Extension</b><br>
+<br>
+<b>Phone:</b> 514 872-1135<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=91,1983236&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>205 rue Faillon Ouest, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Jarry</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>205 rue Faillon Ouest</value>
+</Data>
+<Data name="Borough">
+<value>Villeray–St. Michel–Park Extension</value>
+</Data>
+<Data name="Phone">
+<value>514 872-1135</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=91,1983236&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Sainte-Lucie]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Sainte-Lucie</strong></font><br>
+(Outdoor pool)<br>
+<b>9093 16e Avenue</b><br>
+<b>Villeray–St. Michel–Park Extension</b><br>
+<br>
+<b>Phone:</b> 514 872-1134<br>
+<b><a href="http://ville.montreal.qc.ca/portal/page?_pageid=91,1983236&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>9093 16e Avenue, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Sainte-Lucie</value>
+</Data>
+<Data name="Type">
+<value>Outdoor</value>
+</Data>
+<Data name="Address">
+<value>9093 16e Avenue</value>
+</Data>
+<Data name="Borough">
+<value>Villeray–St. Michel–Park Extension</value>
+</Data>
+<Data name="Phone">
+<value>514 872-1134</value>
+</Data>
+<Data name="URL">
+<value><![CDATA[http://ville.montreal.qc.ca/portal/page?_pageid=91,1983236&_dad=portal&_schema=PORTAL]]>
+</value>
+</Data>
+<Data name="Icon">
+<value>parks</value>
+</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name><![CDATA[Y Westmount]]></name>
+<styleUrl>#BasicStyle</styleUrl>
+<description>
+<![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
+<font size="3" color="blue"><strong>Y Westmount</strong></font><br>
+(Indoor pool)<br>
+<b>4585 rue Sherbrooke Ouest</b><br>
+<b>Westmount</b><br>
+<br>
+<b>Phone:</b> 514 931-8046<br>
+<b><a href="http://www.ymcaquebec.org/en/centre/activities/westmount-y-centre/9/" target="_blank">Website</a></b><br>
+<br>
+<small>Information provided by the City of Montreal and boroughs,<br>and may not be up to date. Call pools for details.</small>
+</div>]]>
+</description>
+<address>4585 rue Sherbrooke Ouest, Montreal, Canada</address>
+
+<ExtendedData>
+<Data name="Pool">
+<value>Y Westmount</value>
+</Data>
+<Data name="Type">
+<value>Indoor</value>
+</Data>
+<Data name="Address">
+<value>4585 rue Sherbrooke Ouest</value>
+</Data>
+<Data name="Borough">
+<value>Westmount</value>
+</Data>
+<Data name="Phone">
+<value>514 931-8046</value>
+</Data>
+<Data name="URL">
+<value>http://www.ymcaquebec.org/en/centre/activities/westmount-y-centre/9/</value>
+</Data>
+<Data name="Icon">
+<value>govtbldgs</value>
+</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+</Document>
+</kml>
