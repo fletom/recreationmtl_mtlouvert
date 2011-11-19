@@ -1,35 +1,92 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
-<style type="text/css">
-  html { height: 100% }
-  body { height: 100%; margin: 0; padding: 0 }
-  #map_canvas { height: 100% }
-</style>
-<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=true"></script>
-<script type="text/javascript" src="geoxml3.js"></script>
-<script type="text/javascript">
-  function initialize_map() {
-    var center_coordinates = new google.maps.LatLng(45.52, -73.52);
-    var initial_options = {
-      zoom: 10,
-      center: center_coordinates,
-      mapTypeId: google.maps.MapTypeId.ROADMAP
-    };
-    var map = new google.maps.Map(
-		document.getElementById("map_canvas"),
-        initial_options
-	);
-	
-	var kml_parser = new geoXML3.parser({map: map});
+	<head>
+	<meta name="viewport" content="initial-scale=1.0, user-scalable=no"/>
+	<style type="text/css">
+		html {
+			height: 100%;
+		}
+		
+		body {
+			height: 100%;
+			margin: 0;
+			padding: 0;
+		}
+		
+		#map_controls {
+			height: 100%;
+			width: 75%;
+		}
+		
+		#map_controls > * {
+			margin: 5px;
+		}
+		
+		#kml_file {
+			width: 200px;
+		}
+		
+		#map_canvas {
+			height: 100%;
+			width: 75%;
+		}
+		
+		.float_left {
+			float: left;
+		}
+	</style>
+	<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=true"></script>
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+	<script type="text/javascript" src="geoxml3.js"></script>
+	<script type="text/javascript">
+		var map;
+		var kml_layer;
+		
+		function add_kml_to_map(kml_file, map) {
+//			var kml_parser = new geoXML3.parser({map: map});
+//			kml_parser.parse(kml_file);
+			
+			kml_layer_options = {
+				clickable: true,
+				map: map,
+				preserveViewport: true,
+			};
+			
+			kml_layer = new google.maps.KmlLayer(kml_file, kml_layer_options);
+		}
+		
+		function initialize_map() {
+			var center_coordinates = new google.maps.LatLng(45.52, -73.52);
+			var initial_options = {
+				zoom: 10,
+				center: center_coordinates,
+				mapTypeId: google.maps.MapTypeId.ROADMAP
+			};
+			
+			_map = new google.maps.Map(
+					$('#map_canvas')[0],
+					initial_options
+			);
+			
+			return _map;
+		}
+		
+		$(function() {
+			map = initialize_map();
+			
+			$('#submit_kml_file').click(function() {
+				add_kml_to_map($('#kml_file').val(), window.map);
+			});
+		});
 
-	kml_parser.parse('example.kml');
-  }
-
-</script>
+	</script>
 </head>
-<body onload="initialize_map()">
-  <div id="map_canvas" style="width:100%; height:100%"></div>
+<body>
+	<div id="map_controls" class="float_left" style="width:25%; height:100%">
+		<h1>KML Google Maps loader</h1>
+		<br/>
+		<input type="text" id="kml_file" value="example.kml"/><button id="submit_kml_file">Load</button>
+	</div>
+	<div id="map_canvas" class="float_left" style="width:75%; height:100%"></div>
 </body>
 </html>
